@@ -1,0 +1,66 @@
+{
+  "electric_guitar.c1": {
+    "sounds": [
+      {
+        "name": "immersive_electric_guitar:instruments/electric_guitar/c1",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "electric_guitar.c2": {
+    "sounds": [
+      {
+        "name": "immersive_electric_guitar:instruments/electric_guitar/c2",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "electric_guitar.c3": {
+    "sounds": [
+      {
+        "name": "immersive_electric_guitar:instruments/electric_guitar/c3",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "electric_guitar.c4": {
+    "sounds": [
+      {
+        "name": "immersive_electric_guitar:instruments/electric_guitar/c4",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "electric_guitar.c5": {
+    "sounds": [
+      {
+        "name": "immersive_electric_guitar:instruments/electric_guitar/c5",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "electric_guitar.c6": {
+    "sounds": [
+      {
+        "name": "immersive_electric_guitar:instruments/electric_guitar/c6",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "electric_guitar.c7": {
+    "sounds": [
+      {
+        "name": "immersive_electric_guitar:instruments/electric_guitar/c7",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "electric_guitar.c8": {
+    "sounds": [
+      {
+        "name": "immersive_electric_guitar:instruments/electric_guitar/c8",
+        "attenuation_distance": 32
+      }
+    ]
+  }
+}
