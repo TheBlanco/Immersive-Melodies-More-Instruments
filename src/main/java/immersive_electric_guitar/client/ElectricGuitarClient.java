@@ -10,5 +10,7 @@ public final class ElectricGuitarClient {
     public ElectricGuitarClient() {
         // Animators touch client-only model classes, so they are registered from the client entrypoint only
         ItemAnimators.register(ElectricGuitarAddon.ELECTRIC_GUITAR_ID, new ElectricGuitarAnimator());
+        // Held and played the same way, so the acoustic shares the guitar pose
+        ItemAnimators.register(ElectricGuitarAddon.ACOUSTIC_GUITAR_ID, new ElectricGuitarAnimator());
     }
 }

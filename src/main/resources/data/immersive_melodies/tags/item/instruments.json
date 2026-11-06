@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "immersive_electric_guitar:electric_guitar"
+    "immersive_electric_guitar:electric_guitar",
+    "immersive_electric_guitar:acoustic_guitar"
   ]
 }
